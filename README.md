@@ -9,3 +9,5 @@ I trained this network in a supervised manner using CIFAR-10 and CIFAR-100 datas
 ![1lvvWF48t7cyRWqct13eU0w](https://github.com/JitheshPavan/ML_Models/assets/140151086/91d8b2a8-4cc0-4466-8730-a274d65795e7)
 </br>
 It's a much simpler networker. Requires images to be 32*32. 
+## Classification of Golgi Dispersal
+Written as help for the paper “Quantification of Golgi Dispersal and Classification Using Machine Learning Models” Micron Journal (Impact Factor: 2.4)
